@@ -1,6 +1,6 @@
-# inception
+# Inception
 
-School 42 Project. Set up a small infrastructure composed of WordPress with LEMP Stack (Nginx, MariaDB and PHP) using Docker / Docker-Compose under specific rules.
+Inception is a school project at 42. Students must user Docker and Docker-compose to set up a small infrastructure composed of WordPress with LEMP Stack (Nginx, MariaDB and PHP).
 <br></br>
 
 <img width="545" alt="147146640-ae6e8f26-3332-474a-bc43-be556dd61c66" src="https://user-images.githubusercontent.com/105823790/171854625-2572cdbf-77c5-425f-a710-90467b55c37b.png">
