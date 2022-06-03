@@ -14,7 +14,7 @@ Inception is a school project at 42. Students must user Docker and Docker-compos
    ```
  - Open a web browser and head to https://dhaliti.42.fr
 
-- Stop and remove containers, images, volumes and network:
+- To stop and remove containers, images, volumes and network:
 
 	```sh
 	$ make fclean
