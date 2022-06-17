@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/105823790/171860148-c0b11827-51de-42e1-8213-e1e83249b081.png" width="150" height="150">
+
 # Inception
 
 Inception is a school project at 42. Students must user Docker and Docker-compose to set up a small infrastructure composed of WordPress with LEMP Stack (Nginx, MariaDB and PHP).
